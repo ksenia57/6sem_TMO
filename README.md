@@ -5,4 +5,4 @@
 + [Лабораторная работа №2](): []()
 + [Лабораторная работа №3](): []()
 ## Рубежные контроли:
-+ **RK1**: [Отчет](https://github.com/Exepez/TMO-Labs/blob/master/TMO-RK1/TMO-RK1.pdf)
++ **RK1**: [Отчет](https://github.com/ksenia57/6sem_TMO/blob/master/RK1/%D0%A0%D0%9A1.pdf)
